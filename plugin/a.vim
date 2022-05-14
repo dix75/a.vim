@@ -85,7 +85,7 @@ call <SID>AddAlternateExtensionMapping('cxx',"h")
 call <SID>AddAlternateExtensionMapping('CXX',"H")
 
 " Mappings for Golang
-call <SID>AddAlternateExtensionMapping('go',"_test.go")
+call <SID>AddAlternateExtensionMapping('.go',"_test.go")
 
 " Mappings for PSL7
 call <SID>AddAlternateExtensionMapping('psl',"ph")
